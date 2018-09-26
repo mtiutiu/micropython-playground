@@ -1,0 +1,10 @@
+{
+    "data_pin": 22,
+    "led_count": 5,
+    "r_index": 255,
+    "g_index": 255,
+    "b_index": 255,
+    "brightness": 255,
+    "mode": 3,
+    "speed": 30
+}

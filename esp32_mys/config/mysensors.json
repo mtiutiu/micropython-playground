@@ -1,0 +1,19 @@
+{
+    "id": 200,
+    "name": "ESP32",
+    "sensors": [
+        {
+            "id": 1,
+            "alias": "Light"
+        }
+    ],
+    "mqtt": {
+        "broker": "mqtt://192.168.137.1",
+        "port": 1883,
+        "user": "",
+        "password": "",
+        "in_topic_prefix": "mys-in",
+        "out_topic_prefix": "mys-out",
+        "qos": 0
+    }
+}
